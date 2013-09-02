@@ -1,0 +1,8 @@
+url: http://eliezerdiaz.com/
+name: Eliezer Diaz
+description: Software Web
+safe: true
+source: https://github.com/eliezerdt/blog
+destination: http://eliezerdt.github.io/blog/
+lsi: false
+pygments: true
